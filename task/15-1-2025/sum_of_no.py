@@ -4,9 +4,9 @@ numbers = []
 
 sum = 0  
 
-while sum < 50:
+num = int(input("Enter a number: ")) 
 
-    num = int(input("Enter a number: ")) 
+while sum < 50:
 
     if sum + num > 50:
 
@@ -18,6 +18,9 @@ while sum < 50:
 
         sum += num  
 
+    if sum  < 50:
+
+        num = int(input("Enter a number: "))
 
 print("The numbers are:", numbers)
 
