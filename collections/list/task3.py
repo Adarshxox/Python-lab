@@ -1,0 +1,7 @@
+"""""
+
+Second Smallest number
+
+
+
+"""
