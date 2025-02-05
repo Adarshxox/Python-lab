@@ -1,0 +1,5 @@
+hari  60 78 90
+amal  80 98 76
+aswin 90 98 71
+
+students =[{"name":hari,"average":avg},{"name":amal,"average":avg},{"name":aswin,"average":avg}]
