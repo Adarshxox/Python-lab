@@ -1,0 +1,35 @@
+Object Oriented Programming is a fundamental concept in Python, empowering developers to build modular, maintainable, and scalable applications. By understanding the core OOP principles (classes, objects,
+inheritance, encapsulation, polymorphism, and abstraction), programmers can leverage the full potential of Python OOP capabilities to design elegant and efficient solutions to complex problems.
+
+OOPs is a way of organizing code that uses objects and classes to represent real-world entities and their behavior. In OOPs, object has attributes thing that has specific data and can perform certain 
+actions using methods.
+
+OOPs Concepts in Python
+> Class in Python
+> Objects in Python
+> Polymorphism in Python
+> Encapsulation in Python
+> Inheritance in Python
+> Data Abstraction in Python
+
+Python Class
+============
+
+A class is a collection of objects. Classes are blueprints for creating objects. A class defines a set of attributes and methods that the created objects (instances) can have.
+
+Some points on Python class: 
+> Classes are created by keyword class.
+> Attributes are the variables that belong to a class.
+> Attributes are always public and can be accessed using the dot (.) operator. Example: Myclass.Myattribute
+
+Creating a Class
+Here, the class keyword indicates that we are creating a class followed by name of the class (Dog in this case).
+
+class Dog:
+    species = "Canine"  # Class attribute
+
+    def __init__(self, name, age):
+        self.name = name  # Instance attribute
+        self.age = age  # Instance attribute
+
+
