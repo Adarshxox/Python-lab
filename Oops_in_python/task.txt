@@ -1,0 +1,32 @@
+1.  Given a pattern
+    Text=”ABABC”
+    Write a program to print first non-recursive character output=c without using nested loop
+
+2.  Given a pattern text=”ABEABAIACB”
+    Write a program to print most recursive consonant from above text 
+    Output=B
+
+3.  wap to find the prime numbers below n where n is entered by user
+
+4.  wap to print the characters of a string in even positions. >>>      name= "python"    o/p = y h n
+
+5.  wap to print sum of even and odd indexed digits in a given number
+
+
+6.  Write a function that returns a list of all divisors of n.
+
+
+7.  Write a function  that reverses the order of words in a given sentence but keeps the characters in each word in the correct order.
+    Example: "Hello World" → "World Hello"
+
+8.  Write a function  that takes a positive integer n and returns the sum of its digits.
+
+9.  Write a function  that takes an integer n and returns its reverse.
+    Example: reverse_integer(1234) should return 4321.
+
+10. Write a function  that calculates the greatest common divisor (GCD) of two numbers a and b.
+
+11. Write a function  that returns the sum of the first n natural numbers using the formula:
+    Sum = n(n+1)/2
+
+12. create a function to check  entered character is vowel or consonants
